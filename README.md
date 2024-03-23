@@ -5,6 +5,7 @@ sh  illumina_pacbio_oxfordnanopore_code_getter.sh
 ```
 Gaurav Sablok \
 Academic Staff Member \
-Universität Potsdam \
-Germany
-
+Bioinformatics \
+Institute for Biochemistry and Biology \
+University of Potsdam \
+Potsdam,Germany
