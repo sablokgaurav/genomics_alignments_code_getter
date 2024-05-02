@@ -3,7 +3,7 @@ a shell code getter for genomics alignments for the illumina and long reads from
 ```
 sh  illumina_pacbio_oxfordnanopore_code_getter.sh
 ```
-Gaurav Sablok \
+Gaurav \
 Academic Staff Member \
 Bioinformatics \
 Institute for Biochemistry and Biology \
